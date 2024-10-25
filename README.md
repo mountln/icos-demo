@@ -18,4 +18,4 @@ IBM Cloud Object Storageを活用したファイルのアップロード、ダ�
 
 このデモアプリの実行方法や実装の詳細については、以下のQiita記事をご覧ください。
 
-[(リンク準備中)IBM Cloud Object Storageを使ったWebアプリ開発]()
+[IBM Cloud Object Storageを使ったWebアプリ開発](https://qiita.com/shan-lin1/items/698e0ed35170a753c64f)
